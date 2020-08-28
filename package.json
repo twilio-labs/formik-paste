@@ -1,11 +1,11 @@
 {
-  "name": "formik-paste",
+  "name": "@twilio-labs/formik-paste",
   "version": "1.0.2",
   "description": "simple declarative bindings for Formik and Twilio React Paste components.",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vnguyen94/formik-paste.git"
+    "url": "https://github.com/twilio-labs/formik-paste.git"
   },
   "files": [
     "dist",
@@ -34,7 +34,7 @@
     "paste",
     "form"
   ],
-  "author": "Van Nguyen",
+  "author": "Twilio",
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
